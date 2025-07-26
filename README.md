@@ -1,0 +1,2 @@
+# Audio Spectrum Analyzer
+A disassembly of the 1981 Semigraphics version of Audio Spectrum Analyzer program pak (cartridge) written by Steve Bjork for the Color Computer. The disassembly is complete and the code builds to a working version. The comments are nearly complete but there are a handful of uncommented lines in the Kaleidoscope feature and several existing comments with pending updates marked with TODO.
